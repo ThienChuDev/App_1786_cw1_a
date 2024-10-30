@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cw1_a</string>
+    <string-array name="length_units">
+        <item>Meters</item>
+        <item>Millimeters</item>
+        <item>Miles</item>
+        <item>Feet</item>
+    </string-array>
+
+</resources>
